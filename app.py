@@ -16,6 +16,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.chat_models import ChatOpenAI
 
+
+# zfuNNzjY10pWn6KKD3lfT3BlbkFJKZVniL8uhauKhYi6ahA8
 def get_pdf_text(pdf_docs):
     text = ""
     for pdf in pdf_docs:
